@@ -3460,10 +3460,11 @@ span:hover {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   right: 0;
-  width: 200px;
-  height: 200px;
+  width: 180px;
+  height: 180px;
   text-align: center;
-  border: 1px solid rgba(255, 255, 255, 0.4);
+  color: red;
+  border: 4.5px solid rgba(255, 255, 255, 0.4);
   border-radius: 50%;
   font-size: 18px;
   font-weight: 600;
@@ -3486,7 +3487,16 @@ span:hover {
   -ms-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
   line-height: 50px;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  transition: 0.5s;
 }
+.showcase-full .parallax-slider .caption .discover span:hover {
+font-size: 22px;
+}
+
 
 .showcase-full .parallax-slider .swiper-slide-active .caption .discover {
   opacity: 1;
