@@ -272,7 +272,7 @@ const NavbarFullMenu = ({
                       children: [/*#__PURE__*/jsx_runtime_.jsx("span", {
                         className: "nm",
                         children: "02."
-                      }), "Game Demo"]
+                      }), "Demo Game"]
                     })
                   })
                 }), /*#__PURE__*/jsx_runtime_.jsx("li", {
@@ -286,7 +286,7 @@ const NavbarFullMenu = ({
                       children: [/*#__PURE__*/jsx_runtime_.jsx("span", {
                         className: "nm",
                         children: "03."
-                      }), "Game Guidance"]
+                      }), "Demo Game Guidance"]
                     })
                   })
                 }), /*#__PURE__*/jsx_runtime_.jsx("li", {

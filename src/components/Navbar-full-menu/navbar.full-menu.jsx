@@ -66,7 +66,7 @@ const NavbarFullMenu = ({ theme }) => {
                         rel="noreferrer"
                         className="link"
                       >
-                        <span className="nm">02.</span>Game Demo
+                        <span className="nm">02.</span>Demo Game
                       </a>
                     </div>
                   </li>
@@ -79,7 +79,7 @@ const NavbarFullMenu = ({ theme }) => {
                         rel="noreferrer"
                         className="link"
                       >
-                        <span className="nm">03.</span>Game Guidance
+                        <span className="nm">03.</span>Demo Game Guidance
                       </a>
                     </div>
                   </li>
